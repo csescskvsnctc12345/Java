@@ -10,3 +10,5 @@ Pharmacy2
 →患者側(予約サイト)
 Pharmacy3
 →薬局側(予約確認)
+PharmacyAndroid
+→Android(予約画面)

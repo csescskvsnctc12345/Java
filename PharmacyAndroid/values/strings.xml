@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">薬局予約</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_qr">QRActivity</string>
+    <string name="title_activity_address_prefectures">AddressPrefecturesActivity</string>
+    <string name="title_activity_address_municipality">AddressMunicipalityActivity</string>
+    <string name="title_activity_time_list">TimeListActivity</string>
+    <string name="title_activity_cancell">CancellActivity</string>
+    <string name="btn_cancell">予約キャンセル</string>
+    <string name="etCansell">予約キャンセル</string>
+
+</resources>

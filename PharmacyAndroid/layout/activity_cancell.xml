@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical" >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/etCansell"
+            android:layout_gravity="center"
+            android:textSize="40sp"
+            android:layout_marginBottom="40dp" />
+
+	    <Button
+	        android:id="@+id/scan"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:onClick="clickEventScan"
+	        android:text="QRコードを読み取ってください。"
+	        android:layout_gravity="center"
+	        android:padding="30dp" />
+
+
+</LinearLayout>
